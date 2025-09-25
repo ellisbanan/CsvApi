@@ -1,0 +1,4 @@
+@CsvApi_HostAddress = http://localhost:5022
+
+GET {{CsvApi_HostAddress}}/api/data
+Accept: application/json
